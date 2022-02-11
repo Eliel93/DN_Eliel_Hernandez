@@ -1,0 +1,17 @@
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\OPP.ConsoleExample.exe.config
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\OPP.ConsoleExample.exe
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\OPP.ConsoleExample.pdb
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\obj\Debug\OPP.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\obj\Debug\OPP.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\obj\Debug\OPP.ConsoleExample.exe
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\obj\Debug\OPP.ConsoleExample.pdb
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\obj\Debug\OPP.ConsoleExample.csproj.CopyComplete
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\NAudio.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\NAudio.WinMM.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\NAudio.Core.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\NAudio.xml
+C:\Users\SISTEMAS\source\repos\OPP.ConsoleExample\OPP.ConsoleExample\bin\Debug\Microsoft.Win32.Registry.xml

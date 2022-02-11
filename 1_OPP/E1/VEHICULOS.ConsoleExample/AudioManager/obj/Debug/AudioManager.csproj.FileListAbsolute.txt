@@ -1,0 +1,6 @@
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb

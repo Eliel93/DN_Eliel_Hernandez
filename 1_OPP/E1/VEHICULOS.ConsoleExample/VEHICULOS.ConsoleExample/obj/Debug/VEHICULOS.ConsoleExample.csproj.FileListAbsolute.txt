@@ -1,0 +1,10 @@
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\bin\Debug\VEHICULOS.ConsoleExample.exe.config
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\bin\Debug\VEHICULOS.ConsoleExample.exe
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\bin\Debug\VEHICULOS.ConsoleExample.pdb
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\obj\Debug\VEHICULOS.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\obj\Debug\VEHICULOS.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\obj\Debug\VEHICULOS.ConsoleExample.exe
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\obj\Debug\VEHICULOS.ConsoleExample.pdb
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\SISTEMAS\source\repos\VEHICULOS.ConsoleExample\VEHICULOS.ConsoleExample\obj\Debug\VEHICULOS.ConsoleExample.csproj.CopyComplete
